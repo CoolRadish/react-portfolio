@@ -12,7 +12,7 @@ import definition from '../images/definition.png';
 import memes from '../images/memes.png';
 import superhero from '../images/superhero.png';
 import monorepo from '../images/monorepo.png';
-import profilee from '../images/profilee.png';
+import askBunny from '../images/AskBunny.png';
 import courseApp from '../images/courseApp.png';
 import chatGPT from '../images/chatGPT.png';
 import challenges from '../images/frontend-challenges.png';
@@ -23,15 +23,15 @@ import jumpstart from '../images/jumpstart.png';
 // Web projects
 const webItem = [
   {
-    link: 'https://www.profilee.info/',
-    title: 'Profilee - An OS link in bio',
+    link: 'https://dev.askbunny.ai/',
+    title: 'AskBunny - Dream Work',
     techStack: 'Tech Stack: Next JS, Tailwind, Typescript, Prisma, AWS S3',
-    desc: 'Profilee is an open source profile link bio page builder',
-    image: profilee,
+    desc: 'AskBunny is an open source profile link bio page builder',
+    image: askBunny,
     color: '#0FFFFF'
   },
   {
-    link: 'https://react-machine-coding.netlify.app/',
+    link: 'https://react-machine-coding.netlify/',
     title: 'Frontend challenges',
     techStack: 'Useful repo for most common frontend challenges',
     desc: 'Technology used: React Js, Mantine UI, Context API',
@@ -48,7 +48,7 @@ const webItem = [
     color: '#D2E0FB'
   },
   {
-    link: 'https://www.youtube.com/watch?v=Dlxz9RnltMA&ab_channel=SachinMittal',
+    link: 'https://www.youtube.com/watch?v=Dlxz9RnltMA&ab',
     title: 'E-Commerce app',
     techStack: 'Tech Stack: Monorepo, Typescript, MERN',
     desc: 'It is a e-commerce app built in a MERN stack using Monorepo. This is 100% typescript.',
